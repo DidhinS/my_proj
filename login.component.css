@@ -1,0 +1,12 @@
+p {
+    font-family: Lato;
+  }
+
+ .container{
+     height: 400px;
+     display: flex;
+     margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+ } 
